@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/q3_4.dir/q3_4.cpp.o  -o q3_4  -Wl,-rpath,/usr/local/lib /usr/local/lib/libosqp.so -larmadillo 

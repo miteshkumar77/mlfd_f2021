@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/kumarm/F2021/ml/hw12/solutions/q1_2/nn.h
+armadillo
+-
+iostream
+-
+algorithm
+-
+array
+-
+functional
+-
+
+/home/kumarm/F2021/ml/hw12/solutions/q1_2/q1_2.cpp
+nn.h
+/home/kumarm/F2021/ml/hw12/solutions/q1_2/nn.h
+

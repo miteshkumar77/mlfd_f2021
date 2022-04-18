@@ -1,0 +1,3 @@
+/home/kumarm/F2021/ml/hw12/solutions/q1_2/CMakeFiles/rebuild_cache.dir
+/home/kumarm/F2021/ml/hw12/solutions/q1_2/CMakeFiles/edit_cache.dir
+/home/kumarm/F2021/ml/hw12/solutions/q1_2/CMakeFiles/q1_2.dir

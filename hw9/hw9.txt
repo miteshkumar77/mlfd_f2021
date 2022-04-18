@@ -1,0 +1,18 @@
+6. |d_train| = 300, |d_test| = 8998, delta = 1 - 0.99 = 0.01, E_test = 0.01333
+
+E_out(g) <= 0.0376
+
+/*
+7. E_cv(reg*) is a biased estimator of E_test(reg*). Although E_test is evaluated over D_test,
+and E_cv is evaluated over D_train, reg* itself is computed using D_train for both of them. In
+order to make this unbiased, we need to compute reg* from one data set, E_cv(reg*) from a second data set,
+and E_test(reg*) from a third.
+*/
+
+7. E_cv(reg*) is a biased estimate of E_out, but it is an unbiased estimate of E_test(reg*).
+This is because the act of choosing reg* causes bias since we are letting the data influence
+our learning process. But since reg*, the factor that introduces bias, affects the results of both
+E_cv(reg*) and E_test(reg*), there is no bias between the two. E_cv(reg*) is evaluated on the 
+training data, and E_test(reg*) is evaluated on the test data.
+
+8.

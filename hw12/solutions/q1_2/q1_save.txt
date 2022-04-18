@@ -1,0 +1,48 @@
+Ein_tanh: 
+   0.4166
+G_tanh: 
+layer: 
+[matrix size: 0x0]
+layer: 
+   1.1563e-01   1.1563e-01
+   2.4866e-02   2.4866e-02
+  -2.8159e-02 -2.3964e+140
+layer: 
+   0.4907
+   0.1170
+   0.1170
+G_numeric_tanh: 
+layer: 
+[matrix size: 0x0]
+layer: 
+   0.1156   0.1156
+   0.0249   0.0249
+  -0.0282  -0.0282
+layer: 
+   0.4907
+   0.1169
+   0.1169
+Ein_identity: 
+   0.4256
+G_identity: 
+layer: 
+[matrix size: 0x0]
+layer: 
+   1.3403e-01   1.3403e-01
+   2.8881e-02   2.8881e-02
+  -3.2533e-02 -2.3964e+140
+layer: 
+   0.5689
+   0.1358
+   0.1358
+G_numeric_identity: 
+layer: 
+[matrix size: 0x0]
+layer: 
+   0.1340   0.1340
+   0.0289   0.0289
+  -0.0325  -0.0325
+layer: 
+   0.5688
+   0.1357
+   0.1357

@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "armadillo": "cpp",
+        "array": "cpp",
+        "ostream": "cpp"
+    }
+}
